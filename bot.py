@@ -12,7 +12,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # --- SOZLAMALAR ---
-TOKEN = os.getenv("BOT_TOKEN", "8605987169:AAGbVvNtPwnqxKxQqemjIs9UYfniVBv0X9k")
+TOKEN = os.getenv("BOT_TOKEN", "8605987169:AAGbYd6uUeBBNBaSou7CH2D1PDegK_XHlL4")
 
 # PythonAnywhere uchun to'liq yo'l
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
